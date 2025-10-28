@@ -1,6 +1,6 @@
 # Todo List
 
-- [ ] Attend GitHub course
+- [x] Attend GitHub course
 - [ ] Eat lunch
 - [ ] Work on project
 - [ ] Catch-up on lecture
